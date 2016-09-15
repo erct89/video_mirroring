@@ -1,0 +1,18 @@
+.hide{
+	display: none;
+	visibility: hidden;
+}
+#mediaViewer {
+	text-align: center;
+	width: 100%;
+	height: 240px;
+	border: 1px solid black;
+}
+#mediaViewer video{
+	height: 240px;
+	width: 340px;
+}
+#mediaViewer audio{
+	height: 50px;
+	width: 100%;
+}
